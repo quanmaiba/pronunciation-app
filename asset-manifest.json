@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pronunciation-app/static/css/main.e6c13ad2.css",
+    "main.js": "/pronunciation-app/static/js/main.37466025.js",
+    "static/js/453.76261d91.chunk.js": "/pronunciation-app/static/js/453.76261d91.chunk.js",
+    "index.html": "/pronunciation-app/index.html",
+    "main.e6c13ad2.css.map": "/pronunciation-app/static/css/main.e6c13ad2.css.map",
+    "main.37466025.js.map": "/pronunciation-app/static/js/main.37466025.js.map",
+    "453.76261d91.chunk.js.map": "/pronunciation-app/static/js/453.76261d91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.37466025.js"
+  ]
+}
